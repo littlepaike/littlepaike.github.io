@@ -18,7 +18,7 @@
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/littlepaike/java) |
+| [Blogs](https://littlepaike.github.io/) | [Books](https://www.yuque.com/littlepaike/java) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
@@ -27,7 +27,7 @@
 <!--END_SECTION:activity-->
 
 <!--
-**xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**littlepaike/littlepaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
